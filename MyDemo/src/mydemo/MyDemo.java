@@ -18,7 +18,7 @@ public class MyDemo {
         System.out.println("ne");
         int a=10;
         int b=5;
-        if(a>0){
+        if(a>0 && b>0){
         System.out.println(a+b);}
 }
 }
